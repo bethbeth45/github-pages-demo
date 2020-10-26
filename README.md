@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Beth's Nonsense
 
 You can use the [editor on GitHub](https://github.com/bethbeth45/github-pages-demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
